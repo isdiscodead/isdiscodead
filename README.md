@@ -13,10 +13,14 @@
 <br><br>
 
 <div align="center">
+  <span>
   <h2>💻 Stacks & Links</h2>
   ✉️ isdiscodead@korea.ac.kr
   <br><br>
+  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisdiscodead%2F&count_bg=%23FFF48B&title_bg=%23FFB0B0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+  </span>
+  <span>
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=isdiscodead)](https://solved.ac/isdiscodead)
@@ -40,16 +44,12 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  </span>
 </div>
 
 <br>
 
-### 😎 Experiences & Stats
-<ul>
-  <li><b>LikeLion 9th KUS</b> - member <i>(2021~)</i> </li>
-  <li><b>UDR</b> - member / mento <i>(2021~)</i> </li>
-  <li><b>Big-Py</b> - builder / member <i>(2021~)</i> </li>
-</ul>
-<br>
-
-![ISDISCODEAD's github stats](https://github-readme-stats.vercel.app/api?username=isdiscodead&show_icons=true)
+### 😎 Experiences
+  <li><b>LikeLion 9th KUS</b> - member <i>(2021~)</i></li>
+  <li><b>UDR</b> - member / mento <i>(2021~)</i></li>
+  <li><b>Big-Py</b> - builder / member <i>(2021~)</i></li>
