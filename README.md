@@ -1,11 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&fontSize=45&text=😼 Jiwon Lee();&desc=Be ambitious.&" />
-I'm studying CS & Software Programming at Korea Univ. since 2021. 🇰🇷
-<br><br>
-💪 I always struggle to be an incessant developer, that's my motto.<br>
-I'm interested in many different areas, so I never stop learning. ✨
-<br><br>
-I love to cooperate and work well with other developers, PMs, and designers to make a service.
-
+<div align="center">
+  I'm studying CS & Software Programming at Korea Univ. since 2021. 🇰🇷
+  <br><br>
+  💪 I always struggle to be an incessant developer, that's my motto.<br>
+  I'm interested in many different areas, so I never stop learning. ✨
+  <br><br>
+  I love to cooperate and work well with other developers, PMs, and designers to make a service.
+  <br>
+</div>
 <br>
 
 ## 🔗 Links & 📫 Contacts
