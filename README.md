@@ -13,8 +13,10 @@
 <br><br>
 
 <div align="center">
+  <h2>💻 Stacks & Links</h2>
   ✉️ isdiscodead@korea.ac.kr
   <br><br>
+  
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=isdiscodead)](https://solved.ac/isdiscodead)
   <a href="https://isdiscodead.notion.site/94becfe970c34dc48b7651869e3f7704" target="_blank">
