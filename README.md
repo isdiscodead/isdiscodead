@@ -51,5 +51,5 @@
 
 ### 😎 Experiences
   <li><b>LikeLion 9th KUS</b> - member <i>(2021~)</i></li>
-  <li><b>UDR</b> - member/mento <i>(2021~)</i></li>
-  <li><b>Big-Py</b> - builder/member <i>(2021~)</i></li>
+  <li><b>UDR</b> - member / mento <i>(2021~)</i></li>
+  <li><b>Big-Py</b> - builder / member <i>(2021~)</i></li>
