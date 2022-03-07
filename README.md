@@ -16,6 +16,7 @@
   <h2>💻 Stacks & Links</h2>
   ✉️ isdiscodead@korea.ac.kr
   <br><br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisdiscodead%2F&count_bg=%23FFF48B&title_bg=%23FFB0B0&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=isdiscodead)](https://solved.ac/isdiscodead)
@@ -43,15 +44,12 @@
 
 <br>
 
-## 😎 Experiences 
+### 😎 Experiences & Stats
 <ul>
   <li><b>LikeLion 9th KUS</b> - member <i>(2021~)</i> </li>
   <li><b>UDR</b> - member / mento <i>(2021~)</i> </li>
   <li><b>Big-Py</b> - builder / member <i>(2021~)</i> </li>
 </ul>
+<br>
 
-<br><br>
-
-## 🔎 STATUS
 ![ISDISCODEAD's github stats](https://github-readme-stats.vercel.app/api?username=isdiscodead&show_icons=true)
-[![ISDISCODEAD's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isdiscodead&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/isdiscodead)
