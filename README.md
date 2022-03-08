@@ -3,7 +3,7 @@
 <div align="center">
   I'm studying CS & Software Programming at Korea Univ. since 2021. 🇰🇷
   <br><br>
-  💪 I always struggle to be an continual developer, that's my motto.<br>
+  💪 I always struggle to be a continual developer, that's my motto.<br>
   I'm interested in many different areas, so I never stop learning. ✨
   <br><br>
   I love to cooperate and work well with other developers, PMs, and designers to make a service.
