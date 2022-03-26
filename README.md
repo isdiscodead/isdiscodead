@@ -43,8 +43,8 @@
   <br>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=Django&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-##2496ED?style=for-the-badge&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-##2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
   </span>
