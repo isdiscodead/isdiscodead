@@ -27,9 +27,9 @@
   <a href="https://isdiscodead.notion.site/94becfe970c34dc48b7651869e3f7704" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style= flat&logo=Notion&logoColor=ffffff"/>
   </a>
-  <a href="https://velog.io/@isdiscodead" target="_blank">
-    <img src="https://img.shields.io/badge/TechBlog-11B48A?style= flat&logo=Vimeo&logoColor=ffffff"/>
-  </a>
+    
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=isdiscodead)](https://velog.io/@isdiscodead) 
+    
   <br><br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
