@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style= flat&logo=Notion&logoColor=ffffff"/>
   </a>
     
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=isdiscodead)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=isdiscodead)](https://velog.io/@isdiscodead)
     
   <br><br>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
