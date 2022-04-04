@@ -53,7 +53,7 @@
 <br>
 
 ### 😎 Experiences
-  <li><b><a href="https://www.likelion.net/univ">LikeLion 9th KUS</a></b> - member <i>(2021~)</i></li>
+  <li><b><a href="https://www.likelion.net/univ">LikeLion 9th KUS</a></b> - member / manager <i>(2021~)</i></li>
   <li><b><a href="https://underdogrev.notion.site/underdogrev/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9">UDR</a></b> - member / mento <i>(2021~)</i></li>
   <li><b><a href="https://kuple.notion.site/BIG_PY-KUS-Deep-Learning-Society-e44168485e414dc5b517e42212166ce7">BIG_PY</a></b> - builder / member <i>(2021~)</i></li>
   <li><b><a href="https://sjcom.kr/">Sejong Computer Academy</a></b> - teacher <i>(2021~)</i></li>
