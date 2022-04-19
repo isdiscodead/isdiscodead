@@ -25,7 +25,10 @@
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=isdiscodead)](https://solved.ac/isdiscodead)
   <a href="https://isdiscodead.notion.site/94becfe970c34dc48b7651869e3f7704" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style= flat&logo=Notion&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style= flat&logo=Notion&logoColor=ffffff"/>
+  </a>
+  <a href="https://my.surfit.io/w/1764221008" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style= flat"/>
   </a>
     
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=isdiscodead)](https://velog.io/@isdiscodead)
