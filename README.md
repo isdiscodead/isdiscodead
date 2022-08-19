@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&fontSize=45&text=😼 Jiwon Lee();&desc=Be ambitious.&" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&fontSize=45&text=😼 Jiwon Lee();&desc=Be ambitious." />
 
 <div align="center">
   I'm studying CS & Software Programming at Korea Univ. since 2021. 🇰🇷
