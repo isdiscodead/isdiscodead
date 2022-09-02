@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&fontSize=45&text=😼 Jiwon Lee;&desc=Be ambitious.)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&fontSize=45&text=😼LeeJiwon();&desc=Be-ambitious.)
 
 
 <div align="center">
