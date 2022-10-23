@@ -59,7 +59,7 @@
 <br>
 
 ### 😎 Experiences
-  <li><b><a href="https://www.likelion.net/univ">LikeLion 9th ~</a></b> - member / manager <i>(2021.05~)</i></li>
+  <li><b><a href="https://www.likelion.net/univ">LikeLion 9th ~ 10th</a></b> - member / manager <i>(2021.05~)</i></li>
   <li><b><a href="https://underdogrev.notion.site/underdogrev/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9">UDR</a></b> - member / mento <i>(2021.05~)</i></li>
   <li><b><a href="https://bigpy.oopy.io/">BIG_PY</a></b> - builder / member <i>(2021.12~)</i></li>
   <li><b><a href="https://sjcom.kr/">Sejong Computer Academy</a></b> - teacher <i>(2021.12~ 2022.06)</i></li>
