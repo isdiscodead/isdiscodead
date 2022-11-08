@@ -26,7 +26,7 @@
   
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=isdiscodead)](https://solved.ac/isdiscodead)
-  <a href="https://isdiscodead.notion.site/94becfe970c34dc48b7651869e3f7704" target="_blank">
+  <a href="https://isdiscodead.oopy.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style= flat&logo=Notion&logoColor=ffffff"/>
   </a>
   <a href="https://my.surfit.io/w/1764221008" target="_blank">
@@ -60,7 +60,7 @@
 
 ### 😎 Experiences
   <li><b><a href="https://www.likelion.net/univ">LikeLion 9th ~ 10th</a></b> - member / manager <i>(2021.05~)</i></li>
-  <li><b><a href="https://underdogrev.notion.site/underdogrev/UnderDog-Revolution-156b01ee50e544a88cb0f2de6de943a9">UDR</a></b> - member / mento <i>(2021.05~)</i></li>
+  <li><b><a href="udr.oopy.io">UDR</a></b> - member / mento <i>(2021.05~)</i></li>
   <li><b><a href="https://bigpy.oopy.io/">BIG_PY</a></b> - builder / member <i>(2021.12~)</i></li>
   <li><b><a href="https://sjcom.kr/">Sejong Computer Academy</a></b> - teacher <i>(2021.12~ 2022.06)</i></li>
   <li><b><a href="https://sunrise-birth-979.notion.site/PROJECT-MOD-SUPPORTERS-0d85a9eb4c4d4eac8158e8fe8c5a2e3b">2022 Nexon MOD supporters</a></b><i> (2022.07~2022.08)</i></li>
