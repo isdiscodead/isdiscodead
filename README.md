@@ -60,8 +60,8 @@
 
 ### 😎 Experiences
   <li><b><a href="https://www.likelion.net/univ">LikeLion 9th ~ 11th</a></b> - member / manager <i>(2021.05~)</i></li>
-  <li><b><a href="udr.oopy.io">UDR</a></b> - member / mento <i>(2021.05~)</i></li>
-  <li><b><a href="https://bigpy.oopy.io/">BIG_PY</a></b> - builder / member <i>(2021.12~)</i></li>
+  <li><b><a href="udr.oopy.io">UDR</a></b> - member / mento / FE lead <i>(2021.05~)</i></li>
+  <li><b><a href="https://bigpy.oopy.io/">BIG_PY</a></b> - builder / member <i>(2021.12~2023.12)</i></li>
   <li><b><a href="https://sjcom.kr/">Sejong Computer Academy</a></b> - teacher <i>(2021.12~ 2022.06)</i></li>
   <li><b><a href="https://sunrise-birth-979.notion.site/PROJECT-MOD-SUPPORTERS-0d85a9eb4c4d4eac8158e8fe8c5a2e3b">2022 Nexon MSW supporters</a></b><i> (2022.07~2022.08)</i>
   <li><b><a href="candidate.im">Candidate</a></b> - intern ➡️ maintainer <i>(2023.7~)</i></li></li>
